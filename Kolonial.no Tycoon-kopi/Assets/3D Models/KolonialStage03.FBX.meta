@@ -1,0 +1,373 @@
+fileFormatVersion: 2
+guid: 8f0b24cb2d5ec0747b7c245188d5c270
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Agurk
+    100002: Agurk001
+    100004: Box005
+    100006: Box006
+    100008: Box007
+    100010: Box008
+    100012: Box009
+    100014: Box010
+    100016: Boxes03
+    100018: BoxesOnShelfs
+    100020: BoxesOnShelfs001
+    100022: BoxesOnShelfs002
+    100024: BoxesOnShelfs003
+    100026: BoxesOnShelfs004
+    100028: BoxesOnShelfs005
+    100030: Chair
+    100032: Clock
+    100034: Computer
+    100036: DoorHandle
+    100038: DoorHandle001
+    100040: Freezer
+    100042: FreezerLamp
+    100044: FreezerShelfs
+    100046: FreezerShelfs001
+    100048: Garage
+    100050: //RootNode
+    100052: Lamp01
+    100054: Lamp02
+    100056: Lamp03
+    100058: Meat
+    100060: Meat001
+    100062: Milk
+    100064: Milk001
+    100066: Numbers
+    100068: SheetsOfPaper
+    100070: Table
+    100072: Table001
+    100074: Tomato
+    100076: Tomato001
+    100078: Tomato002
+    400000: Agurk
+    400002: Agurk001
+    400004: Box005
+    400006: Box006
+    400008: Box007
+    400010: Box008
+    400012: Box009
+    400014: Box010
+    400016: Boxes03
+    400018: BoxesOnShelfs
+    400020: BoxesOnShelfs001
+    400022: BoxesOnShelfs002
+    400024: BoxesOnShelfs003
+    400026: BoxesOnShelfs004
+    400028: BoxesOnShelfs005
+    400030: Chair
+    400032: Clock
+    400034: Computer
+    400036: DoorHandle
+    400038: DoorHandle001
+    400040: Freezer
+    400042: FreezerLamp
+    400044: FreezerShelfs
+    400046: FreezerShelfs001
+    400048: Garage
+    400050: //RootNode
+    400052: Lamp01
+    400054: Lamp02
+    400056: Lamp03
+    400058: Meat
+    400060: Meat001
+    400062: Milk
+    400064: Milk001
+    400066: Numbers
+    400068: SheetsOfPaper
+    400070: Table
+    400072: Table001
+    400074: Tomato
+    400076: Tomato001
+    400078: Tomato002
+    2300000: Agurk
+    2300002: Agurk001
+    2300004: Box005
+    2300006: Box006
+    2300008: Box007
+    2300010: Box008
+    2300012: Box009
+    2300014: Box010
+    2300016: Boxes03
+    2300018: BoxesOnShelfs
+    2300020: BoxesOnShelfs001
+    2300022: BoxesOnShelfs002
+    2300024: BoxesOnShelfs003
+    2300026: BoxesOnShelfs004
+    2300028: BoxesOnShelfs005
+    2300030: Chair
+    2300032: Clock
+    2300034: Computer
+    2300036: DoorHandle
+    2300038: DoorHandle001
+    2300040: Freezer
+    2300042: FreezerLamp
+    2300044: FreezerShelfs
+    2300046: FreezerShelfs001
+    2300048: Garage
+    2300050: Lamp01
+    2300052: Lamp02
+    2300054: Lamp03
+    2300056: Meat
+    2300058: Meat001
+    2300060: Milk
+    2300062: Milk001
+    2300064: Numbers
+    2300066: SheetsOfPaper
+    2300068: Table
+    2300070: Table001
+    2300072: Tomato
+    2300074: Tomato001
+    2300076: Tomato002
+    3300000: Agurk
+    3300002: Agurk001
+    3300004: Box005
+    3300006: Box006
+    3300008: Box007
+    3300010: Box008
+    3300012: Box009
+    3300014: Box010
+    3300016: Boxes03
+    3300018: BoxesOnShelfs
+    3300020: BoxesOnShelfs001
+    3300022: BoxesOnShelfs002
+    3300024: BoxesOnShelfs003
+    3300026: BoxesOnShelfs004
+    3300028: BoxesOnShelfs005
+    3300030: Chair
+    3300032: Clock
+    3300034: Computer
+    3300036: DoorHandle
+    3300038: DoorHandle001
+    3300040: Freezer
+    3300042: FreezerLamp
+    3300044: FreezerShelfs
+    3300046: FreezerShelfs001
+    3300048: Garage
+    3300050: Lamp01
+    3300052: Lamp02
+    3300054: Lamp03
+    3300056: Meat
+    3300058: Meat001
+    3300060: Milk
+    3300062: Milk001
+    3300064: Numbers
+    3300066: SheetsOfPaper
+    3300068: Table
+    3300070: Table001
+    3300072: Tomato
+    3300074: Tomato001
+    3300076: Tomato002
+    4300000: Garage
+    4300002: Table
+    4300004: Clock
+    4300006: Numbers
+    4300008: Chair
+    4300010: Boxes03
+    4300012: Computer
+    4300014: DoorHandle
+    4300016: DoorHandle001
+    4300018: Table001
+    4300020: SheetsOfPaper
+    4300022: Box005
+    4300024: BoxesOnShelfs
+    4300026: Box006
+    4300028: BoxesOnShelfs001
+    4300030: Box007
+    4300032: BoxesOnShelfs002
+    4300034: Box008
+    4300036: BoxesOnShelfs003
+    4300038: Box009
+    4300040: BoxesOnShelfs004
+    4300042: Box010
+    4300044: BoxesOnShelfs005
+    4300046: Freezer
+    4300048: FreezerShelfs
+    4300050: FreezerShelfs001
+    4300052: Meat
+    4300054: Milk
+    4300056: Agurk
+    4300058: Tomato
+    4300060: Agurk001
+    4300062: Meat001
+    4300064: Milk001
+    4300066: Tomato001
+    4300068: Tomato002
+    4300070: Lamp01
+    4300072: Lamp02
+    4300074: Lamp03
+    4300076: FreezerLamp
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Agurk
+    second: {fileID: 2100000, guid: 40ab07ef39f5e5c489744775c8ad2002, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ark
+    second: {fileID: 2100000, guid: 72eead5a43ffe914f8b1fcdd1d7b6725, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bone
+    second: {fileID: 2100000, guid: d6347494dda8a5b459dcfcd5a305e790, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fat
+    second: {fileID: 2100000, guid: 98720dbba15a871438396655468f7a3a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fridge
+    second: {fileID: 2100000, guid: 4ff3434eddc5d1347888bb44afd64827, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lamp
+    second: {fileID: 2100000, guid: e7d92055b2f18624ca640b80b5c0a580, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #25'
+    second: {fileID: 2100000, guid: 7155c31ab4730724cb447c6f9b0d57f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #37'
+    second: {fileID: 2100000, guid: 2679ecfedecb25242b36fe2c6a584275, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #38'
+    second: {fileID: 2100000, guid: b8914792e0e28ef498a85334e553c48f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #39'
+    second: {fileID: 2100000, guid: 8f9760d8735c998429e299d606df5456, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #56'
+    second: {fileID: 2100000, guid: e31da87c3099f8349ac4ac5969b8b1b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #57'
+    second: {fileID: 2100000, guid: 612d3fd90834a9748a7b321795906d5f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #59'
+    second: {fileID: 2100000, guid: 0a6c802fd265a664aa63a43a2fc0cca5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #60'
+    second: {fileID: 2100000, guid: ffb40900d3b8303489961ca3d3e82f0a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Meat
+    second: {fileID: 2100000, guid: 2f95e6f2aaefc7e4bb4ad20843719fcc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Milk
+    second: {fileID: 2100000, guid: 2801e7d1b55683348b29a868a222c122, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shelfs
+    second: {fileID: 2100000, guid: b3b373138a7326848873b3a1f88b1b36, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tomato
+    second: {fileID: 2100000, guid: c01a4aedca010ac418dca435e1340f79, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

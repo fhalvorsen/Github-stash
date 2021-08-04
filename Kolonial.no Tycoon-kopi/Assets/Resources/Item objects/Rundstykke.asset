@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 48908b30d3d2b5c4d837e2451657f9d2, type: 3}
+  m_Name: Rundstykke
+  m_EditorClassIdentifier: 
+  name: Rundstykke
+  icon: {fileID: 21300000, guid: 7c2f64902d71eba438fc3e2c73b70d04, type: 3}
+  basePrice: 0
+  wholesalerPrice: 14
+  retailPrice: 0
+  quality: 0
+  priceRating: 2

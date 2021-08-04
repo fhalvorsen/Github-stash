@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f031133b86832442a1a24b3771b4a15, type: 3}
+  m_Name: Kolonial
+  m_EditorClassIdentifier: 
+  inventoryList:
+  - item: {fileID: 11400000, guid: e81d200cce48d61479bdd95ccf48a6df, type: 2}
+    amount: 1
+  - item: {fileID: 11400000, guid: 078de971a4286104fa15bc9e19a3f9e6, type: 2}
+    amount: 3
+  QualityRating: 1
+  PriceRating: 1
+  name: Kolonial
+  websitScore: 38
+  appScore: 44
+  carScore: 50
+  PuPScore: 27
+  droneScore: 31
+  physicalOrderScore: 26
+  physicalDeliveryScore: 31
+  websiteLvl: 1
+  appLvl: 1
+  carLvl: 1
+  PuPLvl: 1
+  droneLvl: 1
+  physicalOrderLvl: 1
+  phycialDeliveryLvl: 1
+  websitResearchLvl: 1
+  appResearchLvl: 1
+  carResearchLvl: 1
+  PuPResearchLvl: 1
+  droneResearchLvl: 1
+  companyColor: {r: 0.9921569, g: 0.5803922, b: 0.08627451, a: 1}
+  customerCount: 0
+  salesCount: 105

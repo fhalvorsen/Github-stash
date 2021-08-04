@@ -1,0 +1,172 @@
+fileFormatVersion: 2
+guid: 5843b77721241ac42885a24257070298
+timeCreated: 1513601272
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Box060
+    100002: Box073
+    100004: Cylinder01
+    100006: Cylinder016
+    100008: //RootNode
+    100010: Leilighet
+    100012: Rooff
+    400000: Box060
+    400002: Box073
+    400004: Cylinder01
+    400006: Cylinder016
+    400008: //RootNode
+    400010: Leilighet
+    400012: Rooff
+    2300000: Box060
+    2300002: Box073
+    2300004: Cylinder01
+    2300006: Cylinder016
+    2300008: Leilighet
+    2300010: Rooff
+    3300000: Box060
+    3300002: Box073
+    3300004: Cylinder01
+    3300006: Cylinder016
+    3300008: Leilighet
+    3300010: Rooff
+    4300000: Leilighet
+    4300002: Box060
+    4300004: Rooff
+    4300006: Box073
+    4300008: Cylinder016
+    4300010: Cylinder01
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Leilighet01
+    second: {fileID: 2100000, guid: 41a17e2b78fd46b4f801784e6d470f5d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Leilighet_D\xF8rer"
+    second: {fileID: 2100000, guid: 92abc8ddfd041344c9de600c3ad12cef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Leilighet_Vindu
+    second: {fileID: 2100000, guid: 2073be0c948cc4949bfcb06882a77a11, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #132 Slot #2'
+    second: {fileID: 2100000, guid: 6520c696717eb8445969ae3a0054b15d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #132 Slot #3'
+    second: {fileID: 2100000, guid: 2e4e20c2ff0e1304184a15fe2c5a0008, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #133'
+    second: {fileID: 2100000, guid: 505f101e51464b74e8ec9f8bb0d2e887, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #134'
+    second: {fileID: 2100000, guid: 6c6d7ffc81e498d48b670d5b6b943864, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #138'
+    second: {fileID: 2100000, guid: 4ae7309b3e506794c8104f0a6babde34, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tak Elementer
+    second: {fileID: 2100000, guid: be093b3a5013e46798fef95884113137, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WaterTank_Tree
+    second: {fileID: 2100000, guid: 712063af953f0eb4dba98f617bab1c9d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Watertank_Body
+    second: {fileID: 2100000, guid: 36264eedb4c319d4dac5c487ac356fa9, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

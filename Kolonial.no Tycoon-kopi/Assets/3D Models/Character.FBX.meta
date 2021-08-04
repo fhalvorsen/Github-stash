@@ -1,0 +1,276 @@
+fileFormatVersion: 2
+guid: e2fada5e553d44088b1976916cfa7535
+timeCreated: 1513768646
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: B_Chest
+    100002: B_Head
+    100004: B_L_Foot
+    100006: B_L_Hand
+    100008: B_L_LowerArm
+    100010: B_L_LowerLeg
+    100012: B_L_Shoulder
+    100014: B_L_Toe
+    100016: B_L_ToeTip
+    100018: B_L_UpperArm
+    100020: B_L_UpperLeg
+    100022: B_Neck
+    100024: B_Pelvis
+    100026: B_R_Foot
+    100028: B_R_Hand
+    100030: B_R_LowerArm
+    100032: B_R_LowerLeg
+    100034: B_R_Shoulder
+    100036: B_R_Toe
+    100038: B_R_ToeTip
+    100040: B_R_UpperArm
+    100042: B_R_UpperLeg
+    100044: B_Spine1
+    100046: B_Spine2
+    100048: Beard
+    100050: //RootNode
+    100052: Eye_L
+    100054: Eye_R
+    100056: Mesh_Body
+    100058: Mustach
+    100060: Rig_HipHelper
+    400000: B_Chest
+    400002: B_Head
+    400004: B_L_Foot
+    400006: B_L_Hand
+    400008: B_L_LowerArm
+    400010: B_L_LowerLeg
+    400012: B_L_Shoulder
+    400014: B_L_Toe
+    400016: B_L_ToeTip
+    400018: B_L_UpperArm
+    400020: B_L_UpperLeg
+    400022: B_Neck
+    400024: B_Pelvis
+    400026: B_R_Foot
+    400028: B_R_Hand
+    400030: B_R_LowerArm
+    400032: B_R_LowerLeg
+    400034: B_R_Shoulder
+    400036: B_R_Toe
+    400038: B_R_ToeTip
+    400040: B_R_UpperArm
+    400042: B_R_UpperLeg
+    400044: B_Spine1
+    400046: B_Spine2
+    400048: Beard
+    400050: //RootNode
+    400052: Eye_L
+    400054: Eye_R
+    400056: Mesh_Body
+    400058: Mustach
+    400060: Rig_HipHelper
+    4300000: Mesh_Body
+    4300002: Mustach
+    4300004: Eye_R
+    4300006: Eye_L
+    4300008: Beard
+    7400000: Walk
+    7400002: Idle
+    9500000: //RootNode
+    13700000: Beard
+    13700002: Eye_L
+    13700004: Eye_R
+    13700006: Mesh_Body
+    13700008: Mustach
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Beltbuckle
+    second: {fileID: 2100000, guid: dd97799ac8a39486dae524f7ef9ef02f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hair_Belt
+    second: {fileID: 2100000, guid: b67f9d48b8d2b4679ac17110c475a35d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #236'
+    second: {fileID: 2100000, guid: a9d1879901cc64626b4537719ddfb54f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #26'
+    second: {fileID: 2100000, guid: 17a01107ad1a54644b5ed7bbeab11a92, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #27'
+    second: {fileID: 2100000, guid: 6c23b121fc1394b2f8500ef9fc8fee03, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #39'
+    second: {fileID: 2100000, guid: 8f9760d8735c998429e299d606df5456, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pants
+    second: {fileID: 2100000, guid: 0a4e3c72518fb41dda4da8bef0e8190e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shirt
+    second: {fileID: 2100000, guid: 36393a142955e401c94c8c1ae24b9ec9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ShirtSleaves
+    second: {fileID: 2100000, guid: 46e49fd577d794237945d92faa48e916, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Skin
+    second: {fileID: 2100000, guid: 760a08aa5a9b64617928b6bd6fb5e5f5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tie
+    second: {fileID: 2100000, guid: 29963b493bf0d4b98ade14bb5a0cea61, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vest_Shoos
+    second: {fileID: 2100000, guid: cf6128c9fa42a48638daec80ba80c1a4, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Walk
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 32
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Idle
+      takeName: Take 001
+      firstFrame: 39
+      lastFrame: 96
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

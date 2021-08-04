@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f031133b86832442a1a24b3771b4a15, type: 3}
+  m_Name: Keewee
+  m_EditorClassIdentifier: 
+  inventoryList: []
+  name: Keewee
+  websitScore: 0
+  appScore: 14
+  carScore: 15
+  PuPScore: 14
+  droneScore: 14
+  physicalOrderScore: 88
+  physicalDeliveryScore: 0
+  websiteLvl: 0
+  appLvl: 3
+  carLvl: 0
+  PuPLvl: 1
+  droneLvl: 0
+  physicalOrderLvl: 0
+  phycialDeliveryLvl: 0
+  websitResearchLvl: 0
+  appResearchLvl: 0
+  carResearchLvl: 0
+  PuPResearchLvl: 0
+  droneResearchLvl: 0
+  companyColor: {r: 0, g: 0, b: 0, a: 0}
+  customerCount: 0
+  salesCount: 0

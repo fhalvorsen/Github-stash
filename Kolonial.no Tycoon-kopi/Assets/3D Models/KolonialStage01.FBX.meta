@@ -1,0 +1,259 @@
+fileFormatVersion: 2
+guid: 05bb4c07b1550564f931e6bc1d4b46df
+timeCreated: 1513158055
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Boxes
+    100002: Boxes02
+    100004: Boxes03
+    100006: Chair
+    100008: Computer
+    100010: Cylinder001
+    100012: DoorHandle
+    100014: Fridge
+    100016: Fridge Rails
+    100018: Fridge Rails001
+    100020: Fridge Rails002
+    100022: Fridge Rails003
+    100024: FridgeHandle
+    100026: Garage
+    100028: GlassFridge
+    100030: //RootNode
+    100032: Numbers
+    100034: Plane002
+    100036: Plane003
+    100038: SchmepsiLogo
+    100040: Table
+    400000: Boxes
+    400002: Boxes02
+    400004: Boxes03
+    400006: Chair
+    400008: Computer
+    400010: Cylinder001
+    400012: DoorHandle
+    400014: Fridge
+    400016: Fridge Rails
+    400018: Fridge Rails001
+    400020: Fridge Rails002
+    400022: Fridge Rails003
+    400024: FridgeHandle
+    400026: Garage
+    400028: GlassFridge
+    400030: //RootNode
+    400032: Numbers
+    400034: Plane002
+    400036: Plane003
+    400038: SchmepsiLogo
+    400040: Table
+    2300000: Boxes
+    2300002: Boxes02
+    2300004: Boxes03
+    2300006: Chair
+    2300008: Computer
+    2300010: Cylinder001
+    2300012: DoorHandle
+    2300014: Fridge
+    2300016: Fridge Rails
+    2300018: Fridge Rails001
+    2300020: Fridge Rails002
+    2300022: Fridge Rails003
+    2300024: FridgeHandle
+    2300026: Garage
+    2300028: GlassFridge
+    2300030: Numbers
+    2300032: Plane002
+    2300034: Plane003
+    2300036: SchmepsiLogo
+    2300038: Table
+    3300000: Boxes
+    3300002: Boxes02
+    3300004: Boxes03
+    3300006: Chair
+    3300008: Computer
+    3300010: Cylinder001
+    3300012: DoorHandle
+    3300014: Fridge
+    3300016: Fridge Rails
+    3300018: Fridge Rails001
+    3300020: Fridge Rails002
+    3300022: Fridge Rails003
+    3300024: FridgeHandle
+    3300026: Garage
+    3300028: GlassFridge
+    3300030: Numbers
+    3300032: Plane002
+    3300034: Plane003
+    3300036: SchmepsiLogo
+    3300038: Table
+    4300000: Garage
+    4300002: Boxes
+    4300004: Table
+    4300006: Fridge
+    4300008: GlassFridge
+    4300010: FridgeHandle
+    4300012: Fridge Rails
+    4300014: Fridge Rails001
+    4300016: Fridge Rails002
+    4300018: Fridge Rails003
+    4300020: SchmepsiLogo
+    4300022: Cylinder001
+    4300024: Numbers
+    4300026: Chair
+    4300028: Boxes02
+    4300030: Boxes03
+    4300032: Computer
+    4300034: Plane002
+    4300036: Plane003
+    4300038: DoorHandle
+    6400000: Boxes
+    6400002: Boxes02
+    6400004: Boxes03
+    6400006: Chair
+    6400008: Computer
+    6400010: Cylinder001
+    6400012: DoorHandle
+    6400014: Fridge
+    6400016: Fridge Rails
+    6400018: Fridge Rails001
+    6400020: Fridge Rails002
+    6400022: Fridge Rails003
+    6400024: FridgeHandle
+    6400026: Garage
+    6400028: GlassFridge
+    6400030: Numbers
+    6400032: Plane002
+    6400034: Plane003
+    6400036: SchmepsiLogo
+    6400038: Table
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ark
+    second: {fileID: 2100000, guid: 72eead5a43ffe914f8b1fcdd1d7b6725, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fridge
+    second: {fileID: 2100000, guid: 4ff3434eddc5d1347888bb44afd64827, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass
+    second: {fileID: 2100000, guid: fa1a74f812d08463aa05488db8a204c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #25'
+    second: {fileID: 2100000, guid: 7155c31ab4730724cb447c6f9b0d57f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #37'
+    second: {fileID: 2100000, guid: b9d092ebb2989134cb571f00f8754241, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #38'
+    second: {fileID: 2100000, guid: 6c58f639d4511d440a1f3ef05d335685, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #39'
+    second: {fileID: 2100000, guid: 41b4b853eaeeda34a90c9704f976aab9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #56'
+    second: {fileID: 2100000, guid: e31da87c3099f8349ac4ac5969b8b1b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #57'
+    second: {fileID: 2100000, guid: 612d3fd90834a9748a7b321795906d5f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Schmepsi Logo
+    second: {fileID: 2100000, guid: 936aaed042b72f04abe522a281f0a775, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

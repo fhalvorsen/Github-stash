@@ -1,0 +1,307 @@
+fileFormatVersion: 2
+guid: 8c2dd51539fbf6743a9738ff15071454
+timeCreated: 1513241013
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: BoxesOnShelfs
+    100002: BoxesOnShelfs001
+    100004: BoxesOnShelfs002
+    100006: BoxesOnShelfs003
+    100008: BoxesOnShelfs004
+    100010: Chair
+    100012: Computer
+    100014: Cylinder001
+    100016: DoorHandle
+    100018: FloorFridge
+    100020: FloorFridge001
+    100022: Fridge
+    100024: Fridge Rails
+    100026: Fridge Rails001
+    100028: Fridge Rails002
+    100030: Fridge Rails003
+    100032: FridgeHandle
+    100034: Garage
+    100036: GlassFridge
+    100038: //RootNode
+    100040: LampGarage
+    100042: LampGarage001
+    100044: Numbers
+    100046: Plane002
+    100048: Plane003
+    100050: "P\xE5bygg"
+    100052: SchmepsiLogo
+    100054: Shelfs
+    100056: Shelfs001
+    100058: Shelfs002
+    100060: Shelfs003
+    100062: Shelfs004
+    100064: Table
+    100066: WallIron
+    400000: BoxesOnShelfs
+    400002: BoxesOnShelfs001
+    400004: BoxesOnShelfs002
+    400006: BoxesOnShelfs003
+    400008: BoxesOnShelfs004
+    400010: Chair
+    400012: Computer
+    400014: Cylinder001
+    400016: DoorHandle
+    400018: FloorFridge
+    400020: FloorFridge001
+    400022: Fridge
+    400024: Fridge Rails
+    400026: Fridge Rails001
+    400028: Fridge Rails002
+    400030: Fridge Rails003
+    400032: FridgeHandle
+    400034: Garage
+    400036: GlassFridge
+    400038: //RootNode
+    400040: LampGarage
+    400042: LampGarage001
+    400044: Numbers
+    400046: Plane002
+    400048: Plane003
+    400050: "P\xE5bygg"
+    400052: SchmepsiLogo
+    400054: Shelfs
+    400056: Shelfs001
+    400058: Shelfs002
+    400060: Shelfs003
+    400062: Shelfs004
+    400064: Table
+    400066: WallIron
+    2300000: BoxesOnShelfs
+    2300002: BoxesOnShelfs001
+    2300004: BoxesOnShelfs002
+    2300006: BoxesOnShelfs003
+    2300008: BoxesOnShelfs004
+    2300010: Chair
+    2300012: Computer
+    2300014: Cylinder001
+    2300016: DoorHandle
+    2300018: FloorFridge
+    2300020: FloorFridge001
+    2300022: Fridge
+    2300024: Fridge Rails
+    2300026: Fridge Rails001
+    2300028: Fridge Rails002
+    2300030: Fridge Rails003
+    2300032: FridgeHandle
+    2300034: Garage
+    2300036: GlassFridge
+    2300038: LampGarage
+    2300040: LampGarage001
+    2300042: Numbers
+    2300044: Plane002
+    2300046: Plane003
+    2300048: "P\xE5bygg"
+    2300050: SchmepsiLogo
+    2300052: Shelfs
+    2300054: Shelfs001
+    2300056: Shelfs002
+    2300058: Shelfs003
+    2300060: Shelfs004
+    2300062: Table
+    2300064: WallIron
+    3300000: BoxesOnShelfs
+    3300002: BoxesOnShelfs001
+    3300004: BoxesOnShelfs002
+    3300006: BoxesOnShelfs003
+    3300008: BoxesOnShelfs004
+    3300010: Chair
+    3300012: Computer
+    3300014: Cylinder001
+    3300016: DoorHandle
+    3300018: FloorFridge
+    3300020: FloorFridge001
+    3300022: Fridge
+    3300024: Fridge Rails
+    3300026: Fridge Rails001
+    3300028: Fridge Rails002
+    3300030: Fridge Rails003
+    3300032: FridgeHandle
+    3300034: Garage
+    3300036: GlassFridge
+    3300038: LampGarage
+    3300040: LampGarage001
+    3300042: Numbers
+    3300044: Plane002
+    3300046: Plane003
+    3300048: "P\xE5bygg"
+    3300050: SchmepsiLogo
+    3300052: Shelfs
+    3300054: Shelfs001
+    3300056: Shelfs002
+    3300058: Shelfs003
+    3300060: Shelfs004
+    3300062: Table
+    3300064: WallIron
+    4300000: Garage
+    4300002: Table
+    4300004: Fridge
+    4300006: GlassFridge
+    4300008: FridgeHandle
+    4300010: Fridge Rails
+    4300012: Fridge Rails001
+    4300014: Fridge Rails002
+    4300016: Fridge Rails003
+    4300018: SchmepsiLogo
+    4300020: Cylinder001
+    4300022: Numbers
+    4300024: Chair
+    4300026: Computer
+    4300028: Plane002
+    4300030: Plane003
+    4300032: DoorHandle
+    4300034: "P\xE5bygg"
+    4300036: FloorFridge
+    4300038: FloorFridge001
+    4300040: WallIron
+    4300042: Shelfs
+    4300044: BoxesOnShelfs
+    4300046: Shelfs001
+    4300048: BoxesOnShelfs001
+    4300050: Shelfs002
+    4300052: BoxesOnShelfs002
+    4300054: Shelfs003
+    4300056: BoxesOnShelfs003
+    4300058: Shelfs004
+    4300060: BoxesOnShelfs004
+    4300062: LampGarage
+    4300064: LampGarage001
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ark
+    second: {fileID: 2100000, guid: 72eead5a43ffe914f8b1fcdd1d7b6725, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fridge
+    second: {fileID: 2100000, guid: 4ff3434eddc5d1347888bb44afd64827, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass
+    second: {fileID: 2100000, guid: fa1a74f812d08463aa05488db8a204c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lamp
+    second: {fileID: 2100000, guid: e7d92055b2f18624ca640b80b5c0a580, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #25'
+    second: {fileID: 2100000, guid: 7155c31ab4730724cb447c6f9b0d57f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #37'
+    second: {fileID: 2100000, guid: b9d092ebb2989134cb571f00f8754241, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #38'
+    second: {fileID: 2100000, guid: 6c58f639d4511d440a1f3ef05d335685, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #39'
+    second: {fileID: 2100000, guid: 41b4b853eaeeda34a90c9704f976aab9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #56'
+    second: {fileID: 2100000, guid: e31da87c3099f8349ac4ac5969b8b1b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #57'
+    second: {fileID: 2100000, guid: 612d3fd90834a9748a7b321795906d5f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Schmepsi Logo
+    second: {fileID: 2100000, guid: 936aaed042b72f04abe522a281f0a775, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
